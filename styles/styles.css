@@ -24,4 +24,68 @@ li{
     font-size: 16px;
     font-weight: 500;
 }
+
+/* slideshow */
+
+.slideshow-container{
+    position: relative;
+    max-width: 1000px;
+}
+.text{
+   color: white;
+   font-weight: 600;
+   font-size: 48px;
+   position: absolute;
+   text-align: center;
+   top: 300px;
+   left: 440px;
+}
+.p{
+    color:white;
+    font-weight: 300;
+    font-size: 16px;
+    position: absolute;
+    padding-top: 5px;
+    top: 420px;
+    padding-left: 520px;
+    text-align: center;
+}
+.button{
+    position: absolute;
+    padding: 10px 43px;
+    margin-left: 635px;
+    top:480px;
+    background-color: white;
+    color: #3F87F5;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .next {
+    margin-left: 1000px;
+    border-radius: 3px 0 0 3px;
+  }
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  /* moment */
+  
+
    
