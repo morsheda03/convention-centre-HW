@@ -1,11 +1,13 @@
 
+*{
+  font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
 
 /* navbar */
 
 .nav{
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    display: flex;
+  display: flex;
 }
 .nav-title{
     color: #3E3E3E;
@@ -89,8 +91,6 @@ li{
 
   .moment{
     display: flex;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Poppins', sans-serif;
   }
   .pic{
     padding-top: 100px;
@@ -146,6 +146,16 @@ li{
     width: 22px;
     height: 23px;
   }
+
+  /* our package */
+
+
+  .package-title{
+    color: #0A0826;
+    font-weight: 600;
+    font-size: 38px;
+  }
+
 
 
    
