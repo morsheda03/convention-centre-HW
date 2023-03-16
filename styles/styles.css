@@ -1,0 +1,27 @@
+
+
+/* navbar */
+
+.nav{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+}
+.nav-title{
+    color: #3E3E3E;
+    font-size: 22px;
+    font-weight: 700;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-right: 477px;
+}
+.ul{
+   list-style-type: none; 
+}
+li{
+    float:left;
+    padding: 40px 26px 37px 0px;
+    font-size: 16px;
+    font-weight: 500;
+}
+   
