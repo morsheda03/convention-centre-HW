@@ -64,6 +64,10 @@ li{
     border-radius: 5px;
     border: none;
 }
+.img{
+  width: 1500px;
+  height: 584px;
+}
 
 .prev, .next {
     cursor: pointer;
