@@ -48,7 +48,7 @@ li{
     font-size: 16px;
     position: absolute;
     padding-top: 5px;
-    top: 420px;
+    top: 450px;
     padding-left: 520px;
     text-align: center;
 }
@@ -56,7 +56,7 @@ li{
     position: absolute;
     padding: 10px 43px;
     margin-left: 635px;
-    top:480px;
+    top:520px;
     background-color: white;
     color: #3F87F5;
     font-weight: 700;
@@ -100,6 +100,7 @@ li{
     font-weight: 700;
     font-size: 38px;
     padding-top: 173px;
+    padding-bottom: 5px;
     padding-left: 35px;
   }
   .moment-description{
@@ -154,7 +155,35 @@ li{
     color: #0A0826;
     font-weight: 600;
     font-size: 38px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
   }
+  .price{
+    color: #231D4F;
+    font-weight: 700;
+    font-size: 36px;
+    padding-left: 30px;
+  }
+  .work{
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 30px;
+  }
+  .package-p{
+    padding-left: 30px;
+    color: #848199;
+    font-weight: 400;
+    font-size: 15px;
+  }
+  ul{
+    color: #848199;
+  }
+  li{
+    list-style-type: none;
+
+  }
+
 
 
 
