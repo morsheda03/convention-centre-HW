@@ -154,7 +154,9 @@ li{
 
   /* our package */
 
-
+  .our-package{
+    margin-bottom: 154px;
+  }
   .package-title{
     color: #0A0826;
     font-weight: 600;
@@ -180,13 +182,74 @@ li{
     font-weight: 400;
     font-size: 15px;
   }
-  ul{
+  .menu-list{
     color: #848199;
+    font-weight: 400;
+    font-size: 15px;
+    padding-left: 30px;
   }
-  li{
-    list-style-type: none;
+  .package-button{
+    background-color: #F496D1;
+    color: #3F87F5;
+    padding: 14px 60px;
+    margin: 24px 0px 43px 35px;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 24px;
+    border: none;
+    align-items: center;
+    justify-content: center;
 
   }
+  .menu{
+    display: flex;
+    margin-left: 135px;
+  
+    /* gap: 3px; */
+  }
+  .menu-child{
+    /* background-color: red; */
+    padding-top: 58px;
+    padding-right: 60px;
+  }
+  .selected-menu{
+    background-color: #3F87F5;
+    padding-top: 58px;
+    padding-right: 60px;
+    border-radius: 26px;
+    box-shadow: 10px 10px #3F87F5 , -1em .4em #3F87F5; 
+  }
+  #price-color{
+    color: white;
+  }
+  #color{
+    color: white;
+  }
+  #p-color{
+    color: white;
+  }
+  #list-color{
+    color: white;
+  }
+  .i-color{
+    width: 24px;
+    height: 24px;
+  }
+  .package-button-differ{
+    background-color: white;
+    color: #3F87F5;
+    padding: 14px 60px;
+    margin: 24px 0px 43px 35px;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 24px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+
 
 
 
