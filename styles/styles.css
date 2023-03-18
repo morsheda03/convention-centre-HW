@@ -321,6 +321,20 @@ li{
   height: 364px;
  }
  
+ /* footer */
+
+ .footer{
+  font-family: 'Manrope', sans-serif;
+  margin-top: 150px;
+  height: 280px;
+  display: flex;
+  background-color: black;
+ }
+ .right{
+  color: gray;
+  padding: 200px 500px;
+ }
+ 
 
 
 
