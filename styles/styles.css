@@ -248,6 +248,51 @@ li{
     justify-content: center;
   }
 
+ /* clients */
+ 
+
+ .clients-title{
+  color: #0A0826;
+  font-weight: 600;
+  font-size: 38px;
+  padding: 100px 535px;
+ }
+ .clients{
+  display: flex;
+  padding-left: 140px;
+  padding-right: 140px;
+  justify-content: center;
+ }
+ .client{
+  box-shadow: 5px 5px ghostwhite , -1em 0 .9em ghostwhite;
+  border-radius: 5px;
+  gap: 40px;
+ }
+ .client>img{
+  margin: 15px 130px;
+ }
+ .client-des{
+  color: #6C6C6C;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 20px 53px 0px 54px;
+  text-align: center;
+ }
+ .name{
+  color: #0C1920;
+  font-weight: 600;
+  font-size: 14px;
+  padding-left: 134px;
+  padding-right: 134px;
+ }
+ .prof{
+  color: #747474;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 0px 154px 22px 154px;
+ }
+
+
 
 
 
