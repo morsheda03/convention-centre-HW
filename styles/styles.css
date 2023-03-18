@@ -292,6 +292,36 @@ li{
   padding: 0px 154px 22px 154px;
  }
 
+ /* clients */
+
+
+ .question-part{
+  display: flex;
+  margin-left: 158px;
+  margin-right: 158px;
+ }
+ .questions{
+  gap: 10px;
+ }
+ .q-title{
+  color: #0D0925;
+  font-weight: 600;
+  font-size: 38px;
+  padding: 100px 450px;
+ }
+ .answer{
+  color: #7E848C;
+  font-weight: 400;
+  font-size: 16px;
+  padding-top: 8px;
+ }
+ #img{
+  margin-left: 20px;
+  width: 546px;
+  height: 364px;
+ }
+ 
+
 
 
 
